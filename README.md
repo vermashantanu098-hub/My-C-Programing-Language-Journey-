@@ -20,26 +20,36 @@ I have organized this repository into a **modular structure**. I will be uploadi
 
 ## ***📁 Part 1: The Building Blocks***
 • Understanding **main(),** Header Files, and Preprocessor Directives.​
+
 • Variables, Constants, and Data Types (The DNA of our code).​
+
 • Input/Output functions: **printf()** and **scanf()**.​
 
 ## ***📁 Part 2: Decision Making & Logic***
 • ​If-Else statements and Nested Logic 🛣️.​
+
 • Switch-Case for efficient branching.
+
 • ​The Power of Loops: **For, While,** and **Do-While** 🔄.​
 
 ## ***📁 Part 3: Modularity through Functions***
 • ​Defining and calling functions.​
+
 • Scope of variables (Local vs. Global) 🌐
+
 • **Recursion**: The art of a function calling itself.​
 
 ## ***📁 Part 4: Data Structures (Part A)***
 • **Arrays**: Handling lists of data 📊.
+
 • ​**Strings**: Mastering text manipulation.​
+
 • **Structures** & Unions: Creating custom data types to represent real-world objects.​
 
 ## ***📁 Part 5: The "Boss Level" – Pointers​***
 • Understanding Memory Addresses 📍.​
+
 • Pointer Arithmetic and Dereferencing.​
+
 • Dynamic Memory Allocation **(malloc, calloc, free)**.​
 
