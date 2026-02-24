@@ -24,6 +24,7 @@ I have organized this repository into a **modular structure**. I will be uploadi
 • Variables, Constants, and Data Types (The DNA of our code).​
 
 • Input/Output functions: **printf()** and **scanf()**.​
+• ##https://www.linkedin.com/posts/shantanu-verma-21197638b_cprogramming-softwareengineering-techinterviews-ugcPost-7432146738238464000-ewBX?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAGASvK0BBcLFNYYIrshUyiEMKZoLmAvJF0k&utm_campaign=copy_link
 
 ## ***📁 Part 2: Decision Making & Logic***
 • ​If-Else statements and Nested Logic 🛣️.​
